@@ -1,4 +1,4 @@
-package dev.andrylat;
+package dev.akursekova;
 
 import org.junit.jupiter.api.Test;
 

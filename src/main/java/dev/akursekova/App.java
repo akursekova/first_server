@@ -1,4 +1,4 @@
-package dev.andrylat;
+package dev.akursekova;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.databind.ObjectMapper;
